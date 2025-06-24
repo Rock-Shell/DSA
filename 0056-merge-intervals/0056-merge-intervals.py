@@ -7,7 +7,6 @@ class Solution:
 
         n = len(intervals)
         intervals = sorted(intervals, key=lambda x: x[0])
-        print(intervals)
 
         i = 0
         while i<len(intervals)-1:
