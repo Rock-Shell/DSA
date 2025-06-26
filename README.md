@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rock-Shell/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Rock-Shell/DSA/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rock-Shell/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Rock-Shell/DSA/tree/master/3227-find-missing-and-repeated-values) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rock-Shell/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
